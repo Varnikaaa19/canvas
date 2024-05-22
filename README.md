@@ -1,2 +1,2 @@
 # canvas
-A canvas for drawing using javascript
+https://varnikaaa19.github.io/canvas/
