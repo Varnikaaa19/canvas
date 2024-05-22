@@ -1,2 +1,2 @@
 # canvas
-A canvas for drawing
+A canvas for drawing using javascript
